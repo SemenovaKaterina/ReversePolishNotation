@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ReversePolishNotation", "ReversePolishNotation\ReversePolishNotation.vcxproj", "{F9158C85-B5CF-4059-8EE3-8BC8823D31C0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gtest", "gtest\gtest.vcxproj", "{8728C1DC-A545-4333-8D8C-BE493E165870}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9158C85-B5CF-4059-8EE3-8BC8823D31C0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F9158C85-B5CF-4059-8EE3-8BC8823D31C0}.Debug|Win32.Build.0 = Debug|Win32
+		{F9158C85-B5CF-4059-8EE3-8BC8823D31C0}.Release|Win32.ActiveCfg = Release|Win32
+		{F9158C85-B5CF-4059-8EE3-8BC8823D31C0}.Release|Win32.Build.0 = Release|Win32
+		{8728C1DC-A545-4333-8D8C-BE493E165870}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8728C1DC-A545-4333-8D8C-BE493E165870}.Debug|Win32.Build.0 = Debug|Win32
+		{8728C1DC-A545-4333-8D8C-BE493E165870}.Release|Win32.ActiveCfg = Release|Win32
+		{8728C1DC-A545-4333-8D8C-BE493E165870}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
